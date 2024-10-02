@@ -1,0 +1,18 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Lenovo Tab P11 Plus",
+            "description": "Source: https://imei24.com/description/Lenovo/Tab_P11_Plus/Lenovo Tab P11 Plus supports frequency bands GSM , HSPA , LTE. Official announcement date is June 28 2021. The device is working on an Android 11 with a Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) processor. Lenovo Tab P11 Plus has 64GB 4GB RAM,128GB 4GB RAM,128GB 6GB RAM of built-in memory. This device has a Mediatek MT6785 Helio G90T (12 nm) chipset. The main screen size is 11.0 inches,344.4 cm2 with 1200 x 2000 pixels,5: 3 ratio resolution. It has a 212 ppi density) ppi pixel density. The screen covers about 81.8% of the device's body. This screen to body ratio is a very impressive Versions: Wi-Fi only; LTE",
+            "price": "3000$",
+            "quantity": 7,
+            "img":"assets/img/file_anh.jpg"
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": 3
+        }
+    ]
+}
